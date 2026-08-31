@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Kiruthika B - AI & Cloud Engineer" width="100%">
+  <img src="github-banner.png" alt="Kiruthika B - AI & Cloud Engineer" width="100%">
 </p>
 <h1 align="center">Hi, I'm Kiruthika B 👋</h1>
 <h3 align="center">Aspiring AI Engineer | B.Tech IT Graduate | Building toward 2027</h3>
