@@ -2,7 +2,6 @@
 <h3 align="center">Aspiring AI Engineer | B.Tech IT Graduate | Building toward 2027</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Incoming%20TCS%20Associate-0B0B0E?style=for-the-badge&labelColor=0B0B0E&color=FFA500" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-0B0B0E?style=for-the-badge&labelColor=0B0B0E&color=FFA500" />
 </p>
 
