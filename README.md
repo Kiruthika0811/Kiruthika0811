@@ -23,16 +23,16 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0B0B0E?style=for-the-badge&logo=python&logoColor=FFA500" />
+  <img src="https://img.shields.io/badge/C++-0B0B0E?style=for-the-badge&logo=python&logoColor=FFA500" />
   <img src="https://img.shields.io/badge/SQL-0B0B0E?style=for-the-badge&logo=postgresql&logoColor=FFA500" />
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-0B0B0E?style=for-the-badge&logo=cplusplus&logoColor=FFA500" />
   <img src="https://img.shields.io/badge/GCP-0B0B0E?style=for-the-badge&logo=googlecloud&logoColor=FFA500" />
-  <img src="https://img.shields.io/badge/Docker-0B0B0E?style=for-the-badge&logo=docker&logoColor=FFA500" />
+  <img src="https://img.shields.io/badge/AI-0B0B0E?style=for-the-badge&logo=docker&logoColor=FFA500" />
   <img src="https://img.shields.io/badge/HTML5-0B0B0E?style=for-the-badge&logo=html5&logoColor=FFA500" />
   <img src="https://img.shields.io/badge/CSS3-0B0B0E?style=for-the-badge&logo=css3&logoColor=FFA500" />
   <img src="https://img.shields.io/badge/JavaScript-0B0B0E?style=for-the-badge&logo=javascript&logoColor=FFA500" />
-  <img src="https://img.shields.io/badge/React-0B0B0E?style=for-the-badge&logo=react&logoColor=FFA500" />
-  <img src="https://img.shields.io/badge/TypeScript-0B0B0E?style=for-the-badge&logo=typescript&logoColor=FFA500" />
+  <img src="https://img.shields.io/badge/RAG-0B0B0E?style=for-the-badge&logo=react&logoColor=FFA500" />
+  <img src="https://img.shields.io/badge/AI Agents-0B0B0E?style=for-the-badge&logo=typescript&logoColor=FFA500" />
 </p>
 
 ---
